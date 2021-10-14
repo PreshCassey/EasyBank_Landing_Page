@@ -1,0 +1,87 @@
+@import url('https://fonts.googleapis.com/css2?family=Public+Sans:wght@500;900&display=swap');
+
+p,span{
+    font-family: 'Public Sans', sans-serif;
+}
+body + div{
+    background: hsl(0, 0%, 98%);
+
+}
+span{
+    color: hsl(233, 26%, 24%);
+}
+.navbar-nav {
+    display: inline;
+    padding: 5px;
+    margin-bottom: 0;
+    list-style: none; 
+}
+
+.nav-link{
+    justify-content: center;
+}
+.btn-req{
+    background-image: linear-gradient(to right, hsl(136, 65%, 51%)0%, hsl(192, 70%, 51%)100%);
+    background-blend-mode:normal;
+    color:#fff;
+    border: none;
+    border-radius: 8px;
+    padding: 8px;
+}
+.illustration{
+    width: 100%;
+    object-fit: cover;
+    object-position: bottom;
+}
+
+.main{
+    background: url(../images/bg-intro-desktop.svg) no-repeat;
+    background-position: top left;
+}
+.display-5{
+    font-weight: 700;
+    white-space: pre-line;
+}
+.display-6{
+   font-weight: 400; 
+   
+}
+.display-6 + p{
+white-space: pre-line;
+}
+
+.author{
+    font-size: 12px;
+}
+
+.latest{
+    background: (0, 0%, 100%);
+}
+
+.easybank{
+    background: hsl(0, 0%, 98%);
+}
+.link{
+    list-style: none;
+}
+.link a{
+    color: #fff;
+    text-decoration: none;
+}
+
+footer{
+    background: hsl(233, 26%, 24%);
+}
+.link a:hover{
+color:hsl(136, 65%, 51%);
+}
+
+.nav-link:hover{
+    background-image: linear-gradient(to right, hsl(136, 65%, 51%)0%, hsl(192, 70%, 51%)100%);
+
+}
+.social img:hover{
+    background: hsl(136, 65%, 51%);
+}
+.attribution { font-size: 11px; text-align: center; }
+.attribution a { color: hsl(228, 45%, 44%); }

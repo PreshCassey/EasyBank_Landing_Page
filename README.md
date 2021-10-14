@@ -26,13 +26,13 @@ Users should be able to:
 ### Screenshot
 
 #### active-sates
-![](./design/active-states.jpg)
+![./design/active-states.jpg](./design/active-states.jpg)
 
 #### mobile preview
-![](./design/mobile-design.jpg)
+![./design/mobile-design.jpg](./design/mobile-design.jpg)
 
 #### destop preview
-![](./design/desktop-design.jpg)
+![./design/desktop-design.jpg](./design/desktop-design.jpg)
 
 
 
