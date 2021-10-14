@@ -39,7 +39,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [https://github.com/PreshCassey/EasyBank_Landing_Page](https://github.com/PreshCassey/EasyBank_Landing_Page)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [https://preshcassey.github.io/EasyBank_Landing_Page/](https://preshcassey.github.io/EasyBank_Landing_Page/)
 
 ## My process
 
